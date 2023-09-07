@@ -1,5 +1,5 @@
 import flet as ft
-from flet_route import Params, Basket
+from flet_route import Basket, Params
 
 from controls.navigator import navigator
 
